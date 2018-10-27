@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="disp_textview_padding">2dp</dimen>
+    <dimen name="disp_fab_margin">16dp</dimen>
+    <dimen name="disp_fragment_size">150dp</dimen>
+    <dimen name="disp_fragment_padding">20dp</dimen>
+    <dimen name="disp_fragment_padding_top">10dp</dimen>
+    <dimen name="disp_card_margin">3dp</dimen>
+    <dimen name="disp_card_margin_bottom">6dp</dimen>
+    <dimen name="disp_card_padding">5dp</dimen>
+    <dimen name="disp_margin_image_left">5dp</dimen>
+    <dimen name="disp_margin_image">3dp</dimen>
+    <dimen name="disp_image_size">85dp</dimen>
+    <dimen name="disp_text_size">15sp</dimen>
+    <dimen name="disp_text_memory_size">25sp</dimen>
+    <dimen name="disp_memory_width">130dp</dimen>
+
+</resources>

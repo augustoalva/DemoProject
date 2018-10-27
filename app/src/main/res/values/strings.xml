@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListOfTasks</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_memory">&lt;b>%1$s&lt;/b></string>
+    <string name="text_hard_disk">Disco Duro: &lt;b>%1$s&lt;/b></string>
+    <string name="text_description">&lt;b>%1$s&lt;/b></string>
+    <string name="text_title_computers">Lista de actividades</string>
+</resources>

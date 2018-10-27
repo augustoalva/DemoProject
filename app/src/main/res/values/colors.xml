@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorProgressDialog">#95e7d0</color>
+    <color name="colorBackgroundDialog">#424143</color>
+    <color name="disp_background_item">#424143</color>
+    <color name="disp_background">#585658</color>
+    <color name="disp_dialog_background">#585658</color>
+    <color name="disp_dialog_spinner">#799996</color>
+    <color name="disp_state_green">#2fbc2f</color>
+    <color name="disp_state_yellow">#e7df3c</color>
+    <color name="disp_state_red">#ef4747</color>
+</resources>
